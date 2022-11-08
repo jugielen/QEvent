@@ -1,0 +1,10 @@
+- Input valaidation;
+- commments and specs,
+- Remove notif after x secondes.
+
+----------------------------------
+
+Next version :
+
+- Adding filters and search for event;
+ - Adding Deadline events.
